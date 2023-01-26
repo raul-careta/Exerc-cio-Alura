@@ -1,0 +1,88 @@
+.paragrafo-1 {
+    margin-top: 3em;
+}
+
+.paragrafo-2 {
+    color: #101828;
+    margin-top: .4em;
+}
+
+.paragrafo-3 {
+    color: #667085;
+    width: 60%;
+    margin: 1.5em auto;
+    line-height: 30px;
+}
+
+.paragrafo-4 {
+    background: rgba(142, 36, 36, 0.05);
+    border-radius: 16px;
+    margin: 180px auto 0 auto;
+    padding: 4px 12px;
+    width: 125px;
+}
+
+.paragrafo-5 {
+    margin-top: .5em;
+}
+
+.paragrafo-6 {
+    margin: 4em 0 2em 0;
+}
+
+.div-2 {
+    display: flex;
+    justify-content: center;
+    margin-top: 5em;
+}
+
+.div-2-1 {
+    padding: 1em;
+    width: 23%;
+}
+
+.div-2-2 {
+    padding: 1em;
+    width: 23%;
+}
+
+.div-2-3 {
+    padding: 1em;
+    width: 23%;
+}
+
+.div-2-4 {
+    padding: 1em;
+    width: 23%;
+}
+
+.reuniao {
+    display: flex;
+    margin: 3em auto 0 auto;
+}
+
+.empregos {
+    margin: 2em auto;
+    width: 768px;
+}
+
+.empregos-borda {
+    border-radius: 16px;
+    border: 1px solid #EAECF0;
+    padding: 24px 24px 28px;
+    margin-top: 1em;
+    height: 136px;
+}
+
+.ultima-section {
+    background: rgba(196, 25, 25, 0.03);
+    border-radius: 16px;
+    margin: 4em auto;
+    padding: 64px;
+    width: 90%;
+}
+
+.foto-julia {
+    display: flex;
+    margin: 2em auto;
+}
